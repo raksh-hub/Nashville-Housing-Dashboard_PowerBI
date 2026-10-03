@@ -2,10 +2,12 @@
 
 A Power BI dashboard analyzing Nashville housing sales data to identify trends in property sales, pricing, property characteristics, and locations.
 
+DATA CLEANING - https://github.com/raksh-hub/Data-Cleaning_SQL
+
 **Source:** [Kaggle — Nashville Housing Data](https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data)
 
 ## Data Preparation
-- Reused the SQL cleaned data from my other project name 'Data-Cleaning_SQL'
+- Reused the SQL cleaned data from my other project named 'Data-Cleaning_SQL'
 - Further created columns for creating better visualization in Power Query
 - Created calculated fields for property-size (acreage) analysis
 - Created DAX measures for key KPIs
